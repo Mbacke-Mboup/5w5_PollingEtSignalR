@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using labo.signalr.api.Models;
+using Microsoft.AspNetCore.SignalR;
 
 namespace labo.signalr.api.Controllers;
 
